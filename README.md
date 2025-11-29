@@ -1,3 +1,33 @@
-Equipe:
-Alexandre Morlin Corrêa, matricula 2516113, github: AMorlin
-Rafael Silva de Oliveira, matricula 2518294, github: rafasdoliveira 
+# Trabalho Final
+
+## Equipe
+[Alexandre Morlin](https://github.com/AMorlin)
+Matrícula 2516113
+
+[Rafael Oliveira](https://github.com/rafasdoliveira)
+Matrícula 2518294
+
+## Variáveis de Ambiente 
+**URL da API**
+```
+API_URL=https://exemplo.com
+```
+**Porta utilizada ao rodar o projeto localmente**
+```
+PORT=3000
+```
+**DEBUG - Booleano para identificar modo debug do projeto**
+```
+DEBUG=true
+```
+**Dados de Conexão**
+```
+USER=admin
+TOKEN=123456
+```
+
+## Logs do Projeto
+```
+226a6fe (HEAD -> dev, origin/dev)
+Descrição das Variáveis de Ambiente e seus modos de uso.
+```
