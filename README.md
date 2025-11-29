@@ -1,13 +1,13 @@
 # Trabalho Final
 
-### Equipe
+## Equipe
 [Alexandre Morlin](https://github.com/AMorlin)
 Matrícula 2516113
 
 [Rafael Oliveira](https://github.com/rafasdoliveira)
 Matrícula 2518294
 
-### Variáveis de Ambiente 
+## Variáveis de Ambiente 
 **URL da API**
 ```
 API_URL=https://exemplo.com
@@ -24,3 +24,10 @@ DEBUG=true
 ```
 USER=admin
 TOKEN=123456
+```
+
+## Logs do Projeto
+```
+226a6fe (HEAD -> dev, origin/dev)
+Descrição das Variáveis de Ambiente e seus modos de uso.
+```
