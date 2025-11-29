@@ -5,3 +5,4 @@ git branch
   hotfix
 * main
   prod
+  stage
